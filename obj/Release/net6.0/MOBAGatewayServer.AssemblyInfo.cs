@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("MOBAGatewayServer")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+050ddd3d0f2874f8dc4f8d86cc85e5919609e356")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10ed2e8142ab195d2c9cae6ccec9c79acde051b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MOBAGatewayServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MOBAGatewayServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
