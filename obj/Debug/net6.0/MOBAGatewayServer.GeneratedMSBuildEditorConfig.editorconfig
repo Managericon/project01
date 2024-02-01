@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MOBAGatewayServer
-build_property.ProjectDir = E:\C#Demo\HonroofKingsServer\
+build_property.ProjectDir = D:\源码\MOBAGatewayServer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
